@@ -17,13 +17,29 @@
   width: 100px;
   height: 130px;
 }
-.col-md-6{
+.col-md-6.green-col {
   width: 491px;
   background-color: #f5fffa;
 }
 
-.classroom{
+.col-md-6.blue-col {
+  background-color: #f5faff;
+}
+
+.classroom {
   float: right;
   width: 120px;
   height: 90px;
+}
+
+.coin {
+  float: right;
+  width: 120px;
+  height: 115px;
+}
+
+.marie {
+  float: right;
+  width: 100px;
+  height: 137px;
 }
