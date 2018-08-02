@@ -11,3 +11,19 @@
 .side-nav ul li {
     list-style-type: none;
 }
+
+.ian {
+  float: left;
+  width: 100px;
+  height: 130px;
+}
+.col-md-6{
+  width: 491px;
+  background-color: #f5fffa;
+}
+
+.classroom{
+  float: right;
+  width: 120px;
+  height: 90px;
+}
