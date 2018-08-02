@@ -17,13 +17,40 @@
   width: 100px;
   height: 130px;
 }
-.col-md-6.green-col {
+
+.col-md-6 {
   width: 491px;
-  background-color: #f5fffa;
 }
 
-.col-md-6.blue-col {
+.col-md-6.green_col {
+  width: 491px;
+  background-color: #f5fffa;
+  border: solid 1px #cef2e0;
+}
+
+.col-md-6.blue_col {
   background-color: #f5faff;
+  border: solid 1px #cedff2;
+  margin-left: 4px;
+}
+
+.col-md-6.green_col h2 {
+  background-color: #cef2e0;
+  border: 1px solid #a3bfb1;
+}
+
+.col-md-6.blue_col h2 {
+  background-color: #cedff2;
+  border: 1px solid #a3b0bf;
+}
+
+.col-md-6 h2 {
+  font-size: 16.8px;
+  font-weight: bold;
+  padding-top: 3.36px;
+  padding-bottom: 3.36px;
+  padding-left: 6.72px;
+  padding-right: 6.72px;
 }
 
 .classroom {
