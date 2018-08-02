@@ -74,6 +74,10 @@
   height: 90px;
 }
 
+.side-nav ul {
+  padding-left: 0px;
+}
+
 .coin {
   float: right;
   width: 120px;
@@ -92,4 +96,8 @@
 
 .top-nav li{
   font-size: 13.3px;
+}
+.well {
+  min-height: 130px;
+
 }
