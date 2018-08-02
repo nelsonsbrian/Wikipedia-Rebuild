@@ -1,0 +1,13 @@
+.side-nav {
+  width: 168px;
+  font-size: 12px;
+  font-family: sans-serif;
+}
+
+.side-nav h2 {
+  font-size: 12px;
+}
+
+.side-nav ul li {
+    list-style-type: none;
+}
